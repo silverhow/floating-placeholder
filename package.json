@@ -1,8 +1,13 @@
 {
   "name": "floating-placeholder",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "A simple javascript package allows to show/hide a label during input to a text field to always show a placeholder.",
   "main": "index.js",
+  "homepage": "https://github.com/silverhow/floating-placeholder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silverhow/floating-placeholder.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
