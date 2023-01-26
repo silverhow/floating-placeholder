@@ -1,0 +1,24 @@
+{
+  "name": "floating-placeholder",
+  "version": "1.1.2",
+  "description": "A simple javascript package allows to show/hide a label during input to a text field to always show a placeholder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "floating",
+    "placeholder",
+    "label",
+    "javascript",
+    "typescript",
+    "js",
+    "ts",
+    "active",
+    "input",
+    "textarea",
+    "ios"
+  ],
+  "author": "silverhow",
+  "license": "MIT"
+}
